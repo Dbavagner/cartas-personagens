@@ -12,3 +12,4 @@ const arqueiroMagoJoao = new ArqueiroMago('João',7,7,7,'Gelo',7)
 const personagens = [magoAntonio,magaJulia,arqueiroRenato,arqueiroMagoJoao]
 
 new PersonagemView(personagens).render()
+console.log( Personagem.verificarVencedor(magaJulia,arqueiroMagoJoao) ) 

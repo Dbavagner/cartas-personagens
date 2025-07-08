@@ -128,7 +128,7 @@ header {
     height: 148.56px;
 }
 
-.container-tipo {
+.container-static tipo  {
     background-image: url(../img/tarja-azul.png);
     background-repeat: no-repeat;
     height: 40px;
@@ -138,7 +138,7 @@ header {
     left: 25px;
 }
 
-.tipo {
+.static tipo  {
     font-family: var(--fonte-titulo-cartas);
     text-align: center;
     padding: 12px 0;
